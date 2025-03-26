@@ -3,7 +3,7 @@
 1. [Project Purpose](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#project-purpose)
 2. [Executive Summary](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#executive-summary)
 3. [Insights](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#insights)
-   - [Sales Trends](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#sales-trends)
+   - [Sales Trends](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#sales-trends)
 4. [Recommendations](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#recommendations)
    - [Maximizing Sales](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#maximizing-sales)
 5. [Clarifying Questions, Assumptions, Caveats, and Potential Risks](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#clarifying-questions-assumptions-caveats-and-potential-risks)
