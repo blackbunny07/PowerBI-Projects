@@ -1,4 +1,4 @@
-# Egg Sales Over Time Analysis
+# Company’s International Sales from 2022 to 2025
 # Table of Contents
 1. [Project Purpose](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#project-purpose)
 2. [Executive Summary](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#executive-summary)
