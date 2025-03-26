@@ -1,6 +1,6 @@
 # Egg Sales Over Time Analysis
 # Table of Contents
-1. [Project Purpose](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#project-purpose)
+1. [Project Purpose](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#egg-sales-over-time-analysis)
 2. [Executive Summary](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#executive-summary)
 3. [Insights](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#insights)
    - [Sales Trends](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#sales-trends)
