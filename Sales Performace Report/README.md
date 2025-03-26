@@ -6,12 +6,12 @@
    - [Sales Trends](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#sales-trends)
 4. [Recommendations](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#recommendations)
    - [Maximizing Sales](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#maximizing-sales)
-5. [Clarifying Questions, Assumptions, Caveats, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#clarifying-questions-assumptions-caveats-and-potential-risks)
+5. [Clarifying Questions, Assumptions, Caveats, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#quetions-for-stakeholders-prior-to-project-advancement)
    - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#quetions-for-stakeholders-prior-to-project-advancement)
-   - [Assumptions](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#assumptions)
-   - [Caveats](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#caveats)
-   - [Potential Risks](https://github.com/blackbunny07/Excel-Projects/blob/main/Egg%20Sales%20Over%20Time/README.md#potential-risks)
-6. [Dashboard & Data Tables](https://1drv.ms/x/c/cb9295239b7c9138/Ed4uXIDXmV1NinHKojc7b2IBXMmIoX0AnvgUPL1bgk7eog?e=fzAjnH)
+   - [Assumptions](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#assumptions)
+   - [Caveats](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#caveats)
+   - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#potential-risks)
+6. [Dashboard & Data Tables](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#dashboard--data-tables)
 # Project Purpose
 This project assists businesses in optimizing their inventory management and predicting sales by analyzing trends in egg sales over time. Eggs, being a household staple, are a key influencer of grocery shopping behavior, reflecting both routine consumption patterns and seasonal demand fluctuations. By understanding these trends, businesses can avoid stockouts, and better align their operations with consumer needs.
 # Executive Summary
