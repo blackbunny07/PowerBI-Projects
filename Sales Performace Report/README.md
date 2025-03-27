@@ -80,5 +80,5 @@ The sales performance analysis indicates a significant decline in YTD sales comp
 - The data suggests a Q2 sales drop, a stagnant Q3, and a minor Q4 recovery, which could be due to seasonal demand fluctuations or macroeconomic shifts. If these factors aren’t considered, incorrect corrective actions may be taken.
 - Mitigation: Incorporate historical seasonal trends, competitor benchmarking, and economic indicators into forecasting models.
 
-# [*Dashboard*]
+# *Dashboard*
 <img src="https://github.com/user-attachments/assets/22a8bc71-410c-4fae-a809-a4a78b1882c5" alt="Alt Text" width="1000" height="480">
