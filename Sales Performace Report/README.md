@@ -33,17 +33,14 @@ The sales performance analysis indicates a significant decline in YTD sales comp
 ### Regional Underperformance
 - China, Brazil, Poland, Philippines, and France are the worst-performing countries in terms of sales.
 - These regions may require further investigation into market conditions, pricing strategies, or distribution issues.
-
+### Profitability Segmentation
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43ee3aaf-524c-4d87-b90f-b66027b34923" alt="Alt Text" width="500" height="300">
 </p>
 
-### High-Profit, Low-Sales Products
-- A cluster of high-GP% (above 0.4) products exists with low YTD sales (less than 10k), meaning they are highly profitable but not widely sold. These could be premium or niche products that need better visibility or stronger marketing efforts.
-### Low-Sales, Low-Profit Products
-- Some products show both low GP% (below 0.4) and low sales (less than 10k), making them poor performers in both key metrics. These could be candidates for discontinuation or a strategic repositioning to boost profitability.
-### High-Sales, Low-Profit Products
-- Some high-sales products (10-20k) are positioned closer to the low GP% range (below 0.4), suggesting they are being sold with thin margins. This may indicate price wars, high production/distribution costs, or ineffective pricing strategies.
+- **High-Profit, Low-Sales Products:** A cluster of high-GP% (above 0.4) products exists with low YTD sales (less than 10k), meaning they are highly profitable but not widely sold. These could be premium or niche products that need better visibility or stronger marketing efforts.
+- **Low-Sales, Low-Profit Products:** Some products show both low GP% (below 0.4) and low sales (less than 10k), making them poor performers in both key metrics. These could be candidates for discontinuation or a strategic repositioning to boost profitability.
+- **High-Sales, Low-Profit Products:** Some high-sales products (10-20k) are positioned closer to the low GP% range (below 0.4), suggesting they are being sold with thin margins. This may indicate price wars, high production/distribution costs, or ineffective pricing strategies.
 
 # Recommendations
 ### Deep Dive into Q2 Sales Decline:
