@@ -36,8 +36,7 @@ The sales performance analysis indicates a significant decline in YTD sales comp
 - China, Brazil, Poland, Philippines, and France are the worst-performing countries in terms of sales.
 - These regions may require further investigation into market conditions, pricing strategies, or distribution issues.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6a71636-602a-406b-a18d-a6204f4ed61b" alt="Alt Text" width="550" height="120">
-  <img src="https://github.com/user-attachments/assets/b29da92a-487c-440c-968f-df9873bc1696" alt="Alt Text" width="900" height="450">
+  <img src="https://github.com/user-attachments/assets/43ee3aaf-524c-4d87-b90f-b66027b34923" alt="Alt Text" width="500" height="300">
 </p>
 
 # Recommendations
