@@ -81,4 +81,4 @@ The sales performance analysis indicates a significant decline in YTD sales comp
 - Mitigation: Incorporate historical seasonal trends, competitor benchmarking, and economic indicators into forecasting models.
 
 # *Dashboard*
-<img src="https://github.com/user-attachments/assets/22a8bc71-410c-4fae-a809-a4a78b1882c5" alt="Alt Text" width="1000" height="480">
+<img src="https://github.com/user-attachments/assets/937cc8af-b14a-46f1-af94-3d6f4fa835cc" alt="Alt Text" width="1000" height="480">
