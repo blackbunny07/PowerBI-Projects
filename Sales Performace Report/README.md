@@ -17,7 +17,7 @@ this project analyzes sales performance trends over time of a global corporation
 # Executive Summary
 The sales performance analysis indicates a significant decline in YTD sales compared to PYTD, with an overall drop of $6.82M. The most substantial decline occurred between March and May, after which sales plateaued before showing minor recovery in Q4. All product categories (Indoor, Landscape, and Outdoor) contributed to this decline, with no single category outperforming expectations. Additionally, the bottom five performing countries (China, Brazil, Poland, Philippines, and France) reflect regions with severe sales underperformance.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1fe5a41f-b63d-417b-a82d-eec1d99aec39" alt="Alt Text" width="800" height="380">
+  <img src="https://github.com/user-attachments/assets/58887182-5b6e-4a96-bbcc-0cfa268aa3dc" alt="Alt Text" width="700" height="500">
 </p>
 
 # Insights
