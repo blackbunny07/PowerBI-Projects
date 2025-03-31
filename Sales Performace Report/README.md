@@ -6,7 +6,6 @@
 4. [Recommendations](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#recommendations)
 5. [Clarifying Questions, Assumptions, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#clarifying-questions-assumptions-and-potential-risks)
    - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#quetions-for-stakeholders-prior-to-project-advancement)
-   - [Assumptions](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#assumptions)
    - [Caveats](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#caveats)
    - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#potential-risks)
 6. [Dashboard & Data Tables](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#dashboard--data-tables)
@@ -65,10 +64,6 @@ The sales performance analysis indicates a significant decline in YTD sales comp
 - Are there known supply chain constraints we need to account for in the recommendations?
 - How flexible is the current inventory system for adjusting stock levels?
 - Are there any resource limitations or supply chain constraints we should be aware of?
-### Assumptions
-- **Data Accuracy:** The provided egg sales data is assumed to be accurate, complete, and representative of the entire neighborhood.
-- **Consumer Behavior:** Consumer preferences for egg types (e.g., brown, white) are presumed to remain consistent over the analyzed period unless influenced by external factors (e.g., holidays, promotions).
-- **Market Stability:** It is assumed that there are no significant external disruptions (e.g., new competitors, policy changes) beyond those explicitly accounted for, such as the impacts of COVID-19.
 ### Potential Risks
 **Failure to Identify the True Drivers of Sales Decline:**
 - The overall $6.82M drop in sales could stem from multiple factors, including shifts in customer demand, competitor movements, supply chain issues, or internal pricing strategies. Without deeper segmentation, the business might focus on symptoms rather than root causes.
