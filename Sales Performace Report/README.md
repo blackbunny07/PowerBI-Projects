@@ -7,7 +7,7 @@
 5. [Clarifying Questions, Assumptions, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#clarifying-questions-assumptions-and-potential-risks)
    - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#quetions-for-stakeholders-prior-to-project-advancement)
    - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#potential-risks)
-6. [Dashboard & Data Tables](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#dashboard)
+6. [Dashboard](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#dashboard)
 # Project Purpose
 this project analyzes sales performance trends over time of a global corporation, comparing Year-to-Date (YTD) sales against Previous Year-to-Date (PYTD) sales. By identifying key drivers of sales decline and product performance, this analysis aims to provide actionable insights to improve revenue, optimize product strategies, and address underperforming areas.
 # Executive Summary
