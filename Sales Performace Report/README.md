@@ -6,7 +6,6 @@
 4. [Recommendations](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#recommendations)
 5. [Clarifying Questions, Assumptions, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#clarifying-questions-assumptions-and-potential-risks)
    - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#quetions-for-stakeholders-prior-to-project-advancement)
-   - [Caveats](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#caveats)
    - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#potential-risks)
 6. [Dashboard & Data Tables](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#dashboard--data-tables)
 # Project Purpose
