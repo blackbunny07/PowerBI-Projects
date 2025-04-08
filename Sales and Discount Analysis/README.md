@@ -1,13 +1,13 @@
 # Sales and Discount Analysis for Fruits & Vegetables
 # Table of Contents
-1. [Project Purpose](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#project-purpose)
-2. [Executive Summary](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#executive-summary)
-3. [Insights](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#insights)
-4. [Recommendations](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#recommendations)
-5. [Clarifying Questions, Assumptions, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#clarifying-questions-assumptions-and-potential-risks)
-   - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20Performace%20Report/README.md#quetions-for-stakeholders-prior-to-project-advancement)
-   - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#potential-risks)
-6. [Dashboard](https://github.com/blackbunny07/PowerBI-Projects/tree/main/Sales%20Performace%20Report#dashboard)
+1. [Project Purpose](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#project-purpose)
+2. [Executive Summary](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#executive-summary)
+3. [Insights](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#insights)
+4. [Recommendations](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#recommendations)
+5. [Clarifying Questions, Assumptions, and Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#clarifying-questions-assumptions-and-potential-risks)
+   - [Quetions for Stakeholders Prior to Project Advancement](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#quetions-for-stakeholders-prior-to-project-advancement)
+   - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#potential-risks)
+6. [Dashboard](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#dashboard)
 # Project Purpose
 this project analyzes sales performance trends over time of a global corporation, comparing Year-to-Date (YTD) sales against Previous Year-to-Date (PYTD) sales. By identifying key drivers of sales decline and product performance, this analysis aims to provide actionable insights to improve revenue, optimize product strategies, and address underperforming areas.
 # Executive Summary
