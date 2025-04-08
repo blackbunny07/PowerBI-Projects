@@ -72,20 +72,15 @@ The analysis of sales data includes product sales volume, total discounts given,
 - Are there known supply chain constraints we need to account for in the recommendations?
 
 ### Potential Risks
-**Discount Overuse Risk:**
-Without clear Return on Investment (ROI) tracking, discounts may erode margins unnecessarily.
+- **Discount Overuse Risk:** Without clear Return on Investment (ROI) tracking, discounts may erode margins unnecessarily.
 
-**Product Overdependence:**
-Over-reliance on products like Asparagus could hurt sales if supply issues arise.
+- **Product Overdependence:** Over-reliance on products like Asparagus could hurt sales if supply issues arise.
 
-**Customer Concentration Risk:**
-Losing a few top customers (like Amina Loo) could have a large impact on revenue.
+- **Customer Concentration Risk:** Losing a few top customers (like Amina Loo) could have a large impact on revenue.
 
-**Data Granularity Limitation:**
-Without knowing the time frame or order-level details, analysis may miss trends over time.
+- **Data Granularity Limitation:** Without knowing the time frame or order-level details, analysis may miss trends over time.
 
-**Assumption Risk:**
-Patterns observed may not hold in future periods or different markets if customer behavior shifts.
+- **Assumption Risk:** Patterns observed may not hold in future periods or different markets if customer behavior shifts.
 
 # *Dashboard*
 <img src="https://github.com/user-attachments/assets/5cd19379-6f04-4b9c-8cbf-36cad8473ed8" alt="Alt Text" width="1000" height="480">
