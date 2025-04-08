@@ -21,10 +21,7 @@ The analysis of sales data includes product sales volume, total discounts given,
 - **Ineffective Discount Application:** A scatterplot analysis revealed no consistent relationship between quantity sold and discount applied. While a few high-discount, high-quantity outliers were observed (likely bulk deals), the overall pattern suggests that discounts are not being systematically used to drive volume across the board.
 
 - **Customer Purchase Concentration:** A small number of customers account for a disproportionate share of quantity sold. This concentration introduces revenue risk and highlights the need for strategic customer engagement.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/58887182-5b6e-4a96-bbcc-0cfa268aa3dc" alt="Alt Text" width="700" height="500">
-</p>
-
+  
 # Insights
 ### Product Performance
 - Asparagus is the top-selling and most expensive product, indicating strong demand and pricing power.
@@ -41,30 +38,54 @@ The analysis of sales data includes product sales volume, total discounts given,
   <img src="https://github.com/user-attachments/assets/43ee3aaf-524c-4d87-b90f-b66027b34923" alt="Alt Text" width="500" height="300">
 </p>
 
-- **A:** 
-
 # Recommendations
-### Tile:
-- 
+### Promote High-Performing Products
+- Continue pushing Asparagus with bundles or placement in promotions.
+- Highlight other top sellers like Carrot and Rhubarb.
+
+### Review Underperformers
+- Conduct root cause analysis for Lemon's poor performance (pricing, stock levels, demand).
+
+### Refine Discount Strategy
+- Implement tiered discounts to encourage more bulk purchasing.
+- Audit outliers with high discounts to ensure strategic pricing.
+
+### Leverage High-Value Customers
+- Offer personalized deals or early access promotions to top buyers.
+- Create a loyalty program targeting high-quantity purchasers.
+
+### Category-Based Pricing Tactics
+- Consider separating discount strategies for fruits vs. vegetables based on historical performance.
 
 # Clarifying Questions, Assumptions, and Potential Risks
 ### Quetions for Stakeholders Prior to Project Advancement
-- Are there any known external market factors (e.g., economic downturns, competitor movements) that could explain the decline?
+- What is the target margin for each product category?
+- Are there seasonal effects influencing sales/discount patterns?
+- Do we have customer satisfaction or feedback data for low-performing products like Lemon?
+- Are current discounts manually or automatically applied?
+- Is the goal to increase sales volume, revenue, or profit margin?
+- Are stock levels or supply chain constraints impacting product availability?
 - Were there any internal business decisions (pricing changes, distribution shifts) that might have contributed to lower sales?
 - Which regions or product lines are currently receiving the most marketing and sales investments?
-- Are there any upcoming strategic initiatives (e.g., product launches, expansions) that should be factored into this analysis?
 - Are we targeting a geographic area or demographic group?
 - Do we need to consider trends in neighboring markets or regions?
-- Should external factors like economic conditions or promotions be incorporated into the analysis?
 - Are there known supply chain constraints we need to account for in the recommendations?
-- How flexible is the current inventory system for adjusting stock levels?
-- Are there any resource limitations or supply chain constraints we should be aware of?
+
 ### Potential Risks
-**Title:**
-- 
-  
-**Title**
-- 
+**Discount Overuse Risk:**
+Without clear Return on Investment (ROI) tracking, discounts may erode margins unnecessarily.
+
+**Product Overdependence:**
+Over-reliance on products like Asparagus could hurt sales if supply issues arise.
+
+**Customer Concentration Risk:**
+Losing a few top customers (like Amina Loo) could have a large impact on revenue.
+
+**Data Granularity Limitation:**
+Without knowing the time frame or order-level details, analysis may miss trends over time.
+
+**Assumption Risk:**
+Patterns observed may not hold in future periods or different markets if customer behavior shifts.
 
 # *Dashboard*
-<img src="https://github.com/user-attachments/assets/937cc8af-b14a-46f1-af94-3d6f4fa835cc" alt="Alt Text" width="1000" height="480">
+<img src="https://github.com/user-attachments/assets/5cd19379-6f04-4b9c-8cbf-36cad8473ed8" alt="Alt Text" width="1000" height="480">
