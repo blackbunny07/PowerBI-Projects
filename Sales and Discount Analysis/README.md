@@ -30,6 +30,10 @@ The analysis of sales data includes product sales volume, total discounts given,
 - Asparagus is the top-selling and most expensive product, indicating strong demand and pricing power.
 - Lemon is the least sold product, requiring investigation.
 - Most top-selling products are vegetables; fruits dominate the lower sales ranks.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4644a157-5741-4b34-920d-fc1ebc809481" alt="Alt Text" width="700" height="200">
+</p>
+
 ### Discount Analysis
 - There is no strong correlation between quantity sold and discount given.
 - A few high-quantity, high-discount outliers exist — likely bulk deals.
