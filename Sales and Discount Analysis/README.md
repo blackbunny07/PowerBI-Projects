@@ -9,18 +9,34 @@
    - [Potential Risks](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#potential-risks)
 6. [Dashboard](https://github.com/blackbunny07/PowerBI-Projects/blob/main/Sales%20and%20Discount%20Analysis/README.md#dashboard)
 # Project Purpose
-this project analyzes sales performance trends over time of a global corporation, comparing Year-to-Date (YTD) sales against Previous Year-to-Date (PYTD) sales. By identifying key drivers of sales decline and product performance, this analysis aims to provide actionable insights to improve revenue, optimize product strategies, and address underperforming areas.
+This project analyzes sales, discount, and inventory performance across products and customers, with the goal of identifying high-performing items, underperformers, customer buying behavior, and the effectiveness of discounting strategies. This analysis supports data-driven decision-making in sales, pricing, inventory, and customer retention strategies.
+
 # Executive Summary
-The sales performance analysis indicates a significant decline in YTD sales compared to PYTD, with an overall drop of $6.82M. The most substantial decline occurred between March and May, after which sales plateaued before showing minor recovery in Q4. All product categories (Indoor, Landscape, and Outdoor) contributed to this decline, with no single category outperforming expectations. Additionally, the bottom five performing countries (China, Brazil, Poland, Philippines, and France) reflect regions with severe sales underperformance.
+This report addresses the challenge of optimizing sales performance and inventory management in a retail environment characterized by uneven product demand, inconsistent discounting practices, and concentrated customer purchasing behavior. The lack of clear alignment between discount strategies and sales outcomes, combined with underperformance of certain inventory items, has raised concerns about pricing efficiency, revenue leakage, and missed opportunities for growth.
+
+The analysis of sales data includes product sales volume, total discounts given, customer purchase patterns, and product pricing. The results uncovered several critical findings:
+
+- **Product Performance Disparity:** Asparagus emerged as the highest-selling and most expensive product, indicating strong market demand and pricing strength. Conversely, products like Lemon significantly underperformed in sales, suggesting potential issues with customer preference, visibility, or pricing.
+
+- **Ineffective Discount Application:** A scatterplot analysis revealed no consistent relationship between quantity sold and discount applied. While a few high-discount, high-quantity outliers were observed (likely bulk deals), the overall pattern suggests that discounts are not being systematically used to drive volume across the board.
+
+- **Customer Purchase Concentration:** A small number of customers account for a disproportionate share of quantity sold. This concentration introduces revenue risk and highlights the need for strategic customer engagement.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58887182-5b6e-4a96-bbcc-0cfa268aa3dc" alt="Alt Text" width="700" height="500">
 </p>
 
 # Insights
-### Title
-- 
-### Title
--
+### Product Performance
+- Asparagus is the top-selling and most expensive product, indicating strong demand and pricing power.
+- Lemon is the least sold product, requiring investigation.
+- Most top-selling products are vegetables; fruits dominate the lower sales ranks.
+### Discount Analysis
+- There is no strong correlation between quantity sold and discount given.
+- A few high-quantity, high-discount outliers exist — likely bulk deals.
+- Vegetables tend to receive more discounting than fruits.
+### Customer Behavior
+- A few customers (e.g., Amina Loo) account for a disproportionate share of total quantity sold.
+- There's potential for customer loyalty and targeted offers.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/43ee3aaf-524c-4d87-b90f-b66027b34923" alt="Alt Text" width="500" height="300">
 </p>
