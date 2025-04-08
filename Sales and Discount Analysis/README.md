@@ -21,7 +21,10 @@ The analysis of sales data includes product sales volume, total discounts given,
 - **Ineffective Discount Application:** A scatterplot analysis revealed no consistent relationship between quantity sold and discount applied. While a few high-discount, high-quantity outliers were observed (likely bulk deals), the overall pattern suggests that discounts are not being systematically used to drive volume across the board.
 
 - **Customer Purchase Concentration:** A small number of customers account for a disproportionate share of quantity sold. This concentration introduces revenue risk and highlights the need for strategic customer engagement.
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe5ee2e4-6dd9-4e2d-8272-5d85660accd8" alt="Alt Text" width="500" height="200">
+</p>
+
 # Insights
 ### Product Performance
 - Asparagus is the top-selling and most expensive product, indicating strong demand and pricing power.
@@ -34,9 +37,6 @@ The analysis of sales data includes product sales volume, total discounts given,
 ### Customer Behavior
 - A few customers (e.g., Amina Loo) account for a disproportionate share of total quantity sold.
 - There's potential for customer loyalty and targeted offers.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/43ee3aaf-524c-4d87-b90f-b66027b34923" alt="Alt Text" width="500" height="300">
-</p>
 
 # Recommendations
 ### Promote High-Performing Products
